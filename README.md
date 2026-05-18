@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **ROS2**
+- 🔭 I'm currently working on **深圳融聚汇**
 
 - 🌱 I'm currently learning **GraphRAG&Hyper-Graph,ROS2,Langchain,Lora**
 
