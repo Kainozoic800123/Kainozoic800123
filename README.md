@@ -2,19 +2,19 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **深圳融聚汇**
+- 🔭 I'm currently working on **ShenZhenFIU**
 
 - 🌱 I'm currently learning **GraphRAG&Hyper-Graph,ROS2,Langchain,Lora**
 
 - 👯 I'm looking to collaborate on **PageIndex**
 
-- 🤝 I'm looking for help with **学习多模态大模型推理优化**
+- 🤝 I'm looking for help with **Learning Multimodal Large Model Inference Optimization**
 
-- 💬 Ask me about **LLM应用开发&模型微调与调参，计算机视觉深度学习模型，机器学习运动预测骨骼，ROS2智能机器人**
+- 💬 Ask me about **LLM application development & model fine-tuning and hyperparameter optimization, computer vision deep learning models, machine learning-based motion prediction using skeletal data, ROS2 intelligent robotics**
 
 - 📫 How to reach me **1581820462@qq.com&kevinzenith800123@gmail.com**
 
-- ⚡ Fun fact **在AI学习中成长，感知世界的速度和思维的碰撞**
+- ⚡ Fun fact **Growing through AI learning, perceiving the world at speed and experiencing the collision of ideas**
   
 - I’m grateful to live in an open-source world.
   
