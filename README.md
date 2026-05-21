@@ -15,7 +15,15 @@
 - 📫 How to reach me **1581820462@qq.com&kevinzenith800123@gmail.com**
 
 - ⚡ Fun fact **在AI学习中成长，感知世界的速度和思维的碰撞**
-
+  
+- I’m grateful to live in an open-source world.
+  
+- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
+  
+- I’m primarily seeking AI R&D / Full-Stack AI developer internships, and remaining open to other.
+  
+- If you’re interested in what I’m building, welcome to join me.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Kainozoic800123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kainozoic800123" height="30" width="40" /></a>
